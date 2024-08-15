@@ -1,0 +1,10 @@
+<mod>
+	<info>
+		<author>Critterman</author>
+		<name>Corn Fuel and Oil</name>
+		<description>Adds recipes to the game to create Gas Cans from Grain Alcohol and Oil from Cornmeal.</description>
+		<mod_version>1.0</mod_version>
+		<game_version>18.4</game_version>
+		<launcher_version>0.7.3</launcher_version>
+	</info>
+</mod>

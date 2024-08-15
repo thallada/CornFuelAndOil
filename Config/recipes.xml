@@ -1,0 +1,14 @@
+<configs>
+    <append xpath="/recipes">
+        <recipe name="ammoGasCan" count="10" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
+			<ingredient name="drinkJarGrainAlcohol" count="1"/>
+		</recipe>
+        <recipe name="resourceOil" count="1" craft_area="chemistryStation" tags="perkYeahScienceCrafting,learnable,chemStationCrafting">
+	        <ingredient name="foodCornMeal" count="24"/>
+	        <ingredient name="drinkCanEmpty" count="1"/>
+	        <effect_group>
+		        <passive_effect name="CraftingIngredientCount" level="2,5" operation="base_add" value="-2" tags="foodCornMeal"/>
+	        </effect_group>
+        </recipe>
+    </append>
+</configs>

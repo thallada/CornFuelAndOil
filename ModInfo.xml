@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="Corn Fuel and Oil"/>
+		<Description value="Adds recipes to the game to create Gas Cans from Grain Alcohol and Oil from Cornmeal."/>
+		<Author value="Critterman"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>
